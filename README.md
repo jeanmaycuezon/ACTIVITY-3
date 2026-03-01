@@ -1,2 +1,2 @@
 # ACTIVITY-3
-ACTIVITY 3
+Responsive Layout
