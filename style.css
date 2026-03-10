@@ -3,9 +3,29 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    padding: 10px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+header{
+    text-align:center;
+    background:#333;
+    color:white;
+    padding:20px;
+}
+
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    padding:20px;
+}
+
+.movie{
+    background:white;
+    margin:15px;
+    padding:15px;
+    width:200px;
+    text-align:center;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
 }
 
 .movie img{
@@ -26,6 +46,4 @@ body{
         width:90%;
     }
 }
-  
-
 
